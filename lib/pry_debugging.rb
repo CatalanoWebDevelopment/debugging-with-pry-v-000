@@ -4,6 +4,6 @@ def plus_two(num)
 	binding.pry
 end
 
-plus_two("3")
+plus_two(3)
 
 # ruby lib/pry_debugging.rb
